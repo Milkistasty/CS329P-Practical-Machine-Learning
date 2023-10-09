@@ -3,4 +3,4 @@ Coursework and code snippets for CS 329P: Practical Machine Learning (Taught by 
 
 [Course Structure](https://c.d2l.ai/stanford-cs329p/)
 
-[Assignment 1 Dataset](https://c.d2l.ai/stanford-cs329p/assignments.html#assignment-1)
+[Assignment Dataset](https://c.d2l.ai/stanford-cs329p/assignments.html#assignment-1)
